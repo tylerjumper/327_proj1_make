@@ -4,5 +4,5 @@
 
 std::string func()
 {
-	return "hello";
+        return "hello";
 }
