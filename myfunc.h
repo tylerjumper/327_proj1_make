@@ -1,7 +1,6 @@
 //myfunc.h
-#ifndef MY_FUNC_H_
-#define MY_FUNC_H_
+#include <iostream>
+#include <string>
 
 std::string func();
 
-#endif
